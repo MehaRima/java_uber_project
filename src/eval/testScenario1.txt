@@ -1,0 +1,9 @@
+simRide 1 0:0 00/15/1/12/2018 4 5
+simRide 2 -10:0 00/15/1/12/2018 4 5
+passTime 180
+simRide 3 -25:-25 now 1 5
+simRide 5 0:11 30/15/1/12/2018 1 5
+simRide 6 0:11 now 1 5
+passTime 30
+simRide 5 0:11 now 2 5
+passTime 100000

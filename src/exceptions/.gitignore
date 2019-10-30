@@ -1,0 +1,13 @@
+/CarAlreadyUsedException.class
+/InvalidAvailableSeatsException.class
+/InvalidDateException.class
+/InvalidLocationException.class
+/InvalidPassengersNbException.class
+/MarkAttributionException.class
+/NoAskedForPoolRequestException.class
+/PoolRequestException.class
+/RideRequestException.class
+/NoMorePotentialsDriverException.class
+/CustomerIDNotFoundException.class
+/NoExistingIDCarException.class
+/PastTimeException.class

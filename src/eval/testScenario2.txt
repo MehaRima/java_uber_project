@@ -1,0 +1,16 @@
+setDriverStatus 1 offline
+setDriverStatus 2 offline
+setDriverStatus 3 offline
+setDriverStatus 4 offline
+setDriverStatus 5 offline
+setDriverStatus 6 offline
+setDriverStatus 7 offline
+setDriverStatus 8 offline
+setDriverStatus 9 offline
+simRide 1 0:0 00/13/1/12/2018 4 3
+simRide 2 -5:15 00/13/1/12/2018 4 5
+passTime 60 
+setDriverStatus 1 on_duty
+simRide 1 0:0 now 4 3
+simRide 2 -5:15 now 4 5
+passTime 10000
